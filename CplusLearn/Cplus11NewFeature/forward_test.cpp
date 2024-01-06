@@ -21,7 +21,7 @@ class CData {
             std::cout << "~CData() " << std::endl;
         }
 
-    private:
+    private:sdf
         std::string data;
 };
 

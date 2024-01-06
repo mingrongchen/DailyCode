@@ -1,2 +1,2 @@
 *.exe
-C++learn/.vscode
+*.vscode*
