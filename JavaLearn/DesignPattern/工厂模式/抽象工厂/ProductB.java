@@ -1,0 +1,3 @@
+interface ProductB {
+    void show();
+}
